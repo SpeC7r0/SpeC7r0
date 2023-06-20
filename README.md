@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SpeC7r0 (my codename for games), but my real name is Victor Oliveira de Brito.
+- 👀 I’m interested in learn new programming languages.
+- 🌱 I’m currently learning Java, JScript and the (Microsoft) Power Platform.
+- 💞️ I’m looking to collaborate on (idk yet)
+- 📫 How to reach me: my instagram is @victoroli.br and my personal mail is: victoro18brito@gmail.com
